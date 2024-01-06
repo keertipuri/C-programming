@@ -16,7 +16,7 @@ int main()
         {
             factorial*=i;
         }
-        printf("\n factorialof given number is %d",factorial);
+        printf("\n factorial of given number is %d",factorial);
     }
     return 0;
 }
